@@ -1,0 +1,15 @@
+C:\repozit\ekzampler\exzample004\bin\Debug\net6.0\exzample004.exe
+C:\repozit\ekzampler\exzample004\bin\Debug\net6.0\exzample004.deps.json
+C:\repozit\ekzampler\exzample004\bin\Debug\net6.0\exzample004.runtimeconfig.json
+C:\repozit\ekzampler\exzample004\bin\Debug\net6.0\exzample004.dll
+C:\repozit\ekzampler\exzample004\bin\Debug\net6.0\exzample004.pdb
+C:\repozit\ekzampler\exzample004\obj\Debug\net6.0\exzample004.csproj.AssemblyReference.cache
+C:\repozit\ekzampler\exzample004\obj\Debug\net6.0\exzample004.GeneratedMSBuildEditorConfig.editorconfig
+C:\repozit\ekzampler\exzample004\obj\Debug\net6.0\exzample004.AssemblyInfoInputs.cache
+C:\repozit\ekzampler\exzample004\obj\Debug\net6.0\exzample004.AssemblyInfo.cs
+C:\repozit\ekzampler\exzample004\obj\Debug\net6.0\exzample004.csproj.CoreCompileInputs.cache
+C:\repozit\ekzampler\exzample004\obj\Debug\net6.0\exzample004.dll
+C:\repozit\ekzampler\exzample004\obj\Debug\net6.0\refint\exzample004.dll
+C:\repozit\ekzampler\exzample004\obj\Debug\net6.0\exzample004.pdb
+C:\repozit\ekzampler\exzample004\obj\Debug\net6.0\exzample004.genruntimeconfig.cache
+C:\repozit\ekzampler\exzample004\obj\Debug\net6.0\ref\exzample004.dll
