@@ -1,0 +1,15 @@
+C:\repozit\ekzampler\exz9\bin\Debug\net6.0\exz9.exe
+C:\repozit\ekzampler\exz9\bin\Debug\net6.0\exz9.deps.json
+C:\repozit\ekzampler\exz9\bin\Debug\net6.0\exz9.runtimeconfig.json
+C:\repozit\ekzampler\exz9\bin\Debug\net6.0\exz9.dll
+C:\repozit\ekzampler\exz9\bin\Debug\net6.0\exz9.pdb
+C:\repozit\ekzampler\exz9\obj\Debug\net6.0\exz9.csproj.AssemblyReference.cache
+C:\repozit\ekzampler\exz9\obj\Debug\net6.0\exz9.GeneratedMSBuildEditorConfig.editorconfig
+C:\repozit\ekzampler\exz9\obj\Debug\net6.0\exz9.AssemblyInfoInputs.cache
+C:\repozit\ekzampler\exz9\obj\Debug\net6.0\exz9.AssemblyInfo.cs
+C:\repozit\ekzampler\exz9\obj\Debug\net6.0\exz9.csproj.CoreCompileInputs.cache
+C:\repozit\ekzampler\exz9\obj\Debug\net6.0\exz9.dll
+C:\repozit\ekzampler\exz9\obj\Debug\net6.0\refint\exz9.dll
+C:\repozit\ekzampler\exz9\obj\Debug\net6.0\exz9.pdb
+C:\repozit\ekzampler\exz9\obj\Debug\net6.0\exz9.genruntimeconfig.cache
+C:\repozit\ekzampler\exz9\obj\Debug\net6.0\ref\exz9.dll
