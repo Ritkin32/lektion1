@@ -1,0 +1,15 @@
+C:\repozit\ekzampler\exz10\bin\Debug\net6.0\exz10.exe
+C:\repozit\ekzampler\exz10\bin\Debug\net6.0\exz10.deps.json
+C:\repozit\ekzampler\exz10\bin\Debug\net6.0\exz10.runtimeconfig.json
+C:\repozit\ekzampler\exz10\bin\Debug\net6.0\exz10.dll
+C:\repozit\ekzampler\exz10\bin\Debug\net6.0\exz10.pdb
+C:\repozit\ekzampler\exz10\obj\Debug\net6.0\exz10.csproj.AssemblyReference.cache
+C:\repozit\ekzampler\exz10\obj\Debug\net6.0\exz10.GeneratedMSBuildEditorConfig.editorconfig
+C:\repozit\ekzampler\exz10\obj\Debug\net6.0\exz10.AssemblyInfoInputs.cache
+C:\repozit\ekzampler\exz10\obj\Debug\net6.0\exz10.AssemblyInfo.cs
+C:\repozit\ekzampler\exz10\obj\Debug\net6.0\exz10.csproj.CoreCompileInputs.cache
+C:\repozit\ekzampler\exz10\obj\Debug\net6.0\exz10.dll
+C:\repozit\ekzampler\exz10\obj\Debug\net6.0\refint\exz10.dll
+C:\repozit\ekzampler\exz10\obj\Debug\net6.0\exz10.pdb
+C:\repozit\ekzampler\exz10\obj\Debug\net6.0\exz10.genruntimeconfig.cache
+C:\repozit\ekzampler\exz10\obj\Debug\net6.0\ref\exz10.dll
