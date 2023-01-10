@@ -1,0 +1,15 @@
+C:\repozit\ekzampler\exz12\exz20\bin\Debug\net6.0\exz20.exe
+C:\repozit\ekzampler\exz12\exz20\bin\Debug\net6.0\exz20.deps.json
+C:\repozit\ekzampler\exz12\exz20\bin\Debug\net6.0\exz20.runtimeconfig.json
+C:\repozit\ekzampler\exz12\exz20\bin\Debug\net6.0\exz20.dll
+C:\repozit\ekzampler\exz12\exz20\bin\Debug\net6.0\exz20.pdb
+C:\repozit\ekzampler\exz12\exz20\obj\Debug\net6.0\exz20.csproj.AssemblyReference.cache
+C:\repozit\ekzampler\exz12\exz20\obj\Debug\net6.0\exz20.GeneratedMSBuildEditorConfig.editorconfig
+C:\repozit\ekzampler\exz12\exz20\obj\Debug\net6.0\exz20.AssemblyInfoInputs.cache
+C:\repozit\ekzampler\exz12\exz20\obj\Debug\net6.0\exz20.AssemblyInfo.cs
+C:\repozit\ekzampler\exz12\exz20\obj\Debug\net6.0\exz20.csproj.CoreCompileInputs.cache
+C:\repozit\ekzampler\exz12\exz20\obj\Debug\net6.0\exz20.dll
+C:\repozit\ekzampler\exz12\exz20\obj\Debug\net6.0\refint\exz20.dll
+C:\repozit\ekzampler\exz12\exz20\obj\Debug\net6.0\exz20.pdb
+C:\repozit\ekzampler\exz12\exz20\obj\Debug\net6.0\exz20.genruntimeconfig.cache
+C:\repozit\ekzampler\exz12\exz20\obj\Debug\net6.0\ref\exz20.dll
